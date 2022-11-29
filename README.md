@@ -1,7 +1,3 @@
-github本地用户登录token：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
-
-
-
 一、基本的linux命令
 cd 进入某个目录
 
